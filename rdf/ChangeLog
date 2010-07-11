@@ -1,5 +1,5 @@
 =========================
-Version 0.7 (June 2010)
+Version 0.7 (July 2010)
 =========================
  * MODIFIED: olo:OrderedList and olo:Slot now sub class of owl:Thing
  * MODIFIED: olo:OrderedList and olo:Slot now of the type rdf:Class and owl:Class
