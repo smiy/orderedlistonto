@@ -6,27 +6,14 @@
     <cd:nodes>
       <cd:URINode>
         <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >30</cd:height>
+        >85</cd:height>
         <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >126</cd:width>
+        >213</cd:width>
         <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >77</cd:y>
+        >274</cd:y>
         <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >496</cd:x>
-        <cd:class rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
-      </cd:URINode>
-    </cd:nodes>
-    <cd:nodes>
-      <cd:URINode>
-        <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >123</cd:height>
-        <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >277</cd:width>
-        <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >192</cd:y>
-        <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >670</cd:x>
-        <cd:class rdf:resource="http://purl.org/ontology/olo/core#Slot"/>
+        >821</cd:x>
+        <cd:class rdf:resource="http://purl.org/ontology/olo/Slot"/>
       </cd:URINode>
     </cd:nodes>
     <cd:nodes>
@@ -34,15 +21,28 @@
         <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >66</cd:height>
         <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >271</cd:width>
+        >218</cd:width>
         <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >221</cd:y>
+        >284</cd:y>
         <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >203</cd:x>
-        <cd:class rdf:resource="http://purl.org/ontology/olo/core#OrderedList"/>
+        >249</cd:x>
+        <cd:class rdf:resource="http://purl.org/ontology/olo/OrderedList"/>
       </cd:URINode>
     </cd:nodes>
-    <cd:selectedResource rdf:resource="http://purl.org/ontology/olo/core#OrderedList"/>
+    <cd:nodes>
+      <cd:URINode>
+        <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >47</cd:height>
+        <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >227</cd:width>
+        <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >32</cd:y>
+        <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >500</cd:x>
+        <cd:class rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+      </cd:URINode>
+    </cd:nodes>
+    <cd:selectedResource rdf:resource="http://purl.org/ontology/olo/OrderedList"/>
     <rdfs:label>olo:OrderedList Diagram_1</rdfs:label>
   </cd:Diagram>
   <cd:Diagram>
@@ -135,14 +135,27 @@
     <cd:nodes>
       <cd:URINode>
         <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >85</cd:height>
+        >30</cd:height>
         <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >213</cd:width>
+        >126</cd:width>
         <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >274</cd:y>
+        >77</cd:y>
         <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >821</cd:x>
-        <cd:class rdf:resource="http://purl.org/ontology/olo/Slot"/>
+        >496</cd:x>
+        <cd:class rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+      </cd:URINode>
+    </cd:nodes>
+    <cd:nodes>
+      <cd:URINode>
+        <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >123</cd:height>
+        <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >277</cd:width>
+        <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >192</cd:y>
+        <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >670</cd:x>
+        <cd:class rdf:resource="http://purl.org/ontology/olo/core#Slot"/>
       </cd:URINode>
     </cd:nodes>
     <cd:nodes>
@@ -150,28 +163,15 @@
         <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
         >66</cd:height>
         <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >218</cd:width>
+        >271</cd:width>
         <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >284</cd:y>
+        >221</cd:y>
         <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >249</cd:x>
-        <cd:class rdf:resource="http://purl.org/ontology/olo/OrderedList"/>
+        >203</cd:x>
+        <cd:class rdf:resource="http://purl.org/ontology/olo/core#OrderedList"/>
       </cd:URINode>
     </cd:nodes>
-    <cd:nodes>
-      <cd:URINode>
-        <cd:height rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >47</cd:height>
-        <cd:width rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >227</cd:width>
-        <cd:y rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >32</cd:y>
-        <cd:x rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
-        >500</cd:x>
-        <cd:class rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
-      </cd:URINode>
-    </cd:nodes>
-    <cd:selectedResource rdf:resource="http://purl.org/ontology/olo/OrderedList"/>
+    <cd:selectedResource rdf:resource="http://purl.org/ontology/olo/core#OrderedList"/>
     <rdfs:label>olo:OrderedList Diagram_1</rdfs:label>
   </cd:Diagram>
 </rdf:RDF>
