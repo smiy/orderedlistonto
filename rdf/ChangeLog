@@ -1,9 +1,4 @@
 =========================
-Version 0.72 (July 2010)
-=========================
- * MODIFIED: removed owl:ObjectProperty type and owl:inverseOf from olo:item
-
-=========================
 Version 0.71 (July 2010)
 =========================
 
