@@ -1,4 +1,4 @@
-# Saved by TopBraid on Fri Jul 23 14:30:36 CEST 2010
+# Saved by TopBraid on Fri Jul 23 16:35:58 CEST 2010
 # baseURI: http://purl.org/ontology/olo/core#
 # imports: http://purl.org/dc/elements/1.1/
 # imports: http://www.w3.org/2003/06/sw-vocab-status/ns
@@ -40,11 +40,6 @@ olo:Slot
       rdfs:isDefinedBy olo: ;
       rdfs:label "Slot"@en ;
       rdfs:subClassOf owl:Thing ;
-      rdfs:subClassOf
-              [ rdf:type owl:Restriction ;
-                owl:minCardinality "1"^^xsd:nonNegativeInteger ;
-                owl:onProperty olo:item
-              ] ;
       rdfs:subClassOf
               [ rdf:type owl:Restriction ;
                 owl:maxCardinality "1"^^xsd:nonNegativeInteger ;
